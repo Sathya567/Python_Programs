@@ -3,7 +3,10 @@
 @Date: 2021-11-04 11:50:00
 @Title : Checking the entered year is a leap year or not
 '''
-#function to check leap year or not
+'''
+    Description:
+            function to check leap year or not
+'''            
 def CheckLeap(Year):
         """"Checking if the given year is leap year"""""
 
