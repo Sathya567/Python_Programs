@@ -26,7 +26,7 @@ if __name__ == '__main__':
         #Exception Try Block
         try :
             year = int(input("Enter the year to check it is leap year or not :"))
-            CheckLeap(year) # function Calling
+            CheckLeap(year) #  function Calling
             flag = False
 
         # Exception catch Block
