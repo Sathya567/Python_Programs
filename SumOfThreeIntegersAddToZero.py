@@ -41,6 +41,6 @@ while True:
         obj.find_triples(array, length)
         break
 
-    except ValueError:
+    except  ValueError:
         print("Check the input")
         continue
