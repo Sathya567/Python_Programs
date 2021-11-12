@@ -29,7 +29,7 @@ class Triplets:
             print(" not exist ")
 
 # object
-obj = Triplets()
+obj =  Triplets()
 
 while True:
     try:
